@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SWED_D.iml" filepath="$PROJECT_DIR$/SWED_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWED.iml" filepath="$PROJECT_DIR$/SWED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWED_1.5/SWED_1.5.iml" filepath="$PROJECT_DIR$/SWED_1.5/SWED_1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWED_4/SWED_4.iml" filepath="$PROJECT_DIR$/SWED_4/SWED_4.iml" />
     </modules>
   </component>
 </project>
